@@ -11,7 +11,7 @@
 	"engines": {
 		"node": "8.11.2"
 	},
-	"author" : "rohit",
+	"author": "rohit",
 	
 	"repository": {
 		"type": "git",
