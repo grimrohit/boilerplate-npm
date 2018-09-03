@@ -1,7 +1,7 @@
 {
-	"author": "Jane",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
+		"boilerplate": "^0.6.1",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
@@ -11,6 +11,8 @@
 	"engines": {
 		"node": "8.11.2"
 	},
+	"author" : "rohit",
+	
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
